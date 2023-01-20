@@ -1,5 +1,6 @@
 # Encrypt_Crawling
-검색한 키워드를 이용하여 크롤링. 후 디렉토리 암호화.
+검색한 키워드를 이용하여 이미지 크롤링 후 디렉토리 압축.
+Encrypt, Decrypt를 이용하여 암호화 및 복호화 가능 
 
 ## Default Directory 
 "C:\Download\Image" 
